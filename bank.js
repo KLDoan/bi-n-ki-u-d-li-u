@@ -5,4 +5,4 @@ let vay = parseInt(Vay);
 let lai = parseInt(LaiSuat)
 let nam = parseInt(Nam)
 pay = vay + nam * lai * vay
-alert("ban phai tra " + pay + " sau " + Nam + " nam")
+alert("ban phai tra " + pay + "VND sau " + Nam + " nam")
